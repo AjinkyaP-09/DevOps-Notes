@@ -20,7 +20,7 @@ This document continues my journey toward mastering Jenkins for DevOps.
 - Build and optionally push Docker image via Jenkins Pipeline
 
 ## Repository of sample-node-app
-[sample-node-app](https://github.com/AjinkyaP-09/simple-node-app)
+[simple-node-app](https://github.com/AjinkyaP-09/simple-node-app)
 
 📄 Document: [`jenkins-day-2-exploring-core-concepts.docx`](./jenkins-day-2-exploring-core-concepts.docx)
 
