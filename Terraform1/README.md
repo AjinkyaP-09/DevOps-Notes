@@ -24,7 +24,7 @@ This repository provides a basic understanding of **Terraform** along with a han
 - `variables.tf` – Input variable definitions
 - `terraform.tfvars` – Values for region, AMI, and instance type
 - `outputs.tf` – Outputs: instance public IP, ID, and SSH user
-
+- Project repository : [AjinkyaP-09/terraform-Practical-1](https://github.com/AjinkyaP-09/terraform-Practical-1.git)
 ## ✅ How to Run
 
 1. Set AWS credentials in environment variables
